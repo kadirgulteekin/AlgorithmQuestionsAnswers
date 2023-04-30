@@ -7,8 +7,6 @@ using System.Threading.Tasks;
 
 //Given an integer x, return true if x is a palindrome, and false otherwise.
 
-
-
 //Example 1:
 
 //Input: x = 121
@@ -42,15 +40,9 @@ namespace IsPalindrome
             int original = x;
             while (x != 0)
             { //123
-                int digit = x % 10; //3
-               
-                x /= 10;//12
-             
-                reversed = reversed * 10 + digit; //3,3*10 = 30 +2 =32
-              
-
-
-
+                int digit = x % 10; //3 
+                x /= 10;//12            
+                reversed = reversed * 10 + digit; //3,3*10 = 30 +2 =32             
             }
             Console.WriteLine(reversed);
             Console.ReadLine();
