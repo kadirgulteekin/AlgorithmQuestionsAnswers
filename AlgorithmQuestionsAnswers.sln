@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsPalindrome", "ConsoleApp9
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomaToInteger", "RomaToInteger\RomaToInteger.csproj", "{1E29D405-46CC-4057-82C2-E639F9CE0005}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestCommonPrefix", "LongestCommonPrefix\LongestCommonPrefix.csproj", "{AF5F802D-2B27-4B69-8D3C-E12969816BB8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1E29D405-46CC-4057-82C2-E639F9CE0005}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E29D405-46CC-4057-82C2-E639F9CE0005}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E29D405-46CC-4057-82C2-E639F9CE0005}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF5F802D-2B27-4B69-8D3C-E12969816BB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF5F802D-2B27-4B69-8D3C-E12969816BB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF5F802D-2B27-4B69-8D3C-E12969816BB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF5F802D-2B27-4B69-8D3C-E12969816BB8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

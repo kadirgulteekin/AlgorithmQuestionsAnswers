@@ -15,6 +15,10 @@ namespace RomaToInteger
 //C             100
 //D             500
 //M             1000
+
+//Input: s = "MCMXCIV"
+//Output: 1994
+//Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
     internal class Program
     {
         static void Main(string[] args)
@@ -54,9 +58,9 @@ namespace RomaToInteger
                       
 
                 }
-                if(4 * num < answer) //5*4 = 20 <0
+                if(4 * num < answer) //5*4 = 20 <0, 4*1 = 4 <5
                 {
-                    Console.WriteLine(answer);
+                    //answer = 5-1 = 4
                     answer -= num;
                 }
                 else //answer = 5
