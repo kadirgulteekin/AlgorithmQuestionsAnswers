@@ -48,14 +48,7 @@ namespace IsPalindrome
             Console.ReadLine();
             return reversed == original;
 
-
-
-
-
-
         }
-
-
     }
 }
 
