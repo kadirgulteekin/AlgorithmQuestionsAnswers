@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("IsPalindrome")]
+[assembly: AssemblyTitle("IsPalidrome")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("IsPalindrome")]
+[assembly: AssemblyProduct("IsPalidrome")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("fc572b89-9ed6-492b-98de-67ec0269945e")]
+[assembly: Guid("f7498728-85f6-47d5-9d41-92de2e8b59ce")]
 
 // Version information for an assembly consists of the following four values:
 //

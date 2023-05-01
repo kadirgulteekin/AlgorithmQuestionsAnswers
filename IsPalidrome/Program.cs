@@ -47,8 +47,8 @@ namespace IsPalindrome
             Console.WriteLine(reversed);
             Console.ReadLine();
             return reversed == original;
-           
-           
+
+
 
 
 
